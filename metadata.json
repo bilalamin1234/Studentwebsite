@@ -1,0 +1,6 @@
+{
+  "name": "TeachBack – Learn by Teaching",
+  "description": "Smart education app where students master concepts by teaching 'Bolt', a curious animated robot whose naive questions reveal knowledge gaps and trigger instant revision insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
